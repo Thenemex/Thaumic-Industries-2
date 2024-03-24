@@ -1,0 +1,30 @@
+Vanilla :
+-------------------------------
+-1  Nether
+0   Overworld
+1   End
+
+Gadomancy :
+-------------------------------
+    I:dimOuterId=-73
+
+Sanguimancy :
+-------------------------------
+    I:soulNetworkDimensionID=42
+
+Thaumcraft :
+-------------------------------
+    I:outer_lands_dim=-42
+
+Thaumic Horizons :
+-------------------------------
+    I:pocket_plane_dim=69
+
+Thaumic Tinkerer :
+-------------------------------
+        I:"Bedrock dimension id"=-19
+
+Twilight Forest :
+-------------------------------
+    I:dimensionID=-50
+    I:dimensionProviderID=-777
