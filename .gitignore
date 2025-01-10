@@ -1,2 +1,7 @@
 # IntelliJ
 .idea/
+
+# Local files
+Copy.bat
+IDEAS.txt
+CHANGELOG.txt
