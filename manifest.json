@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Thaumic Industries 2",
-  "version": "2.0.2",
+  "version": "2.0.2.1",
   "author": "Thenemex",
   "files": [
     {
@@ -65,6 +65,11 @@
       "required": true
     },
     {
+      "projectID": 896591,
+      "fileID": 5187152,
+      "required": true
+    },
+    {
       "projectID": 309110,
       "fileID": 2655844,
       "required": true
@@ -95,13 +100,13 @@
       "required": true
     },
     {
-      "projectID": 222213,
-      "fileID": 3293859,
+      "projectID": 361579,
+      "fileID": 4271867,
       "required": true
     },
     {
-      "projectID": 361579,
-      "fileID": 4271867,
+      "projectID": 222213,
+      "fileID": 3293859,
       "required": true
     },
     {
@@ -210,13 +215,13 @@
       "required": true
     },
     {
-      "projectID": 230976,
-      "fileID": 2272838,
+      "projectID": 230103,
+      "fileID": 2244260,
       "required": true
     },
     {
-      "projectID": 230103,
-      "fileID": 2244260,
+      "projectID": 230976,
+      "fileID": 2272838,
       "required": true
     },
     {
@@ -230,6 +235,11 @@
       "required": true
     },
     {
+      "projectID": 226082,
+      "fileID": 2244334,
+      "required": true
+    },
+    {
       "projectID": 228027,
       "fileID": 2423369,
       "required": true
@@ -240,6 +250,11 @@
       "required": true
     },
     {
+      "projectID": 253043,
+      "fileID": 2430662,
+      "required": true
+    },
+    {
       "projectID": 1154331,
       "fileID": 5971016,
       "required": true
@@ -247,11 +262,6 @@
     {
       "projectID": 75598,
       "fileID": 2232793,
-      "required": true
-    },
-    {
-      "projectID": 253043,
-      "fileID": 2430662,
       "required": true
     },
     {
@@ -280,23 +290,23 @@
       "required": true
     },
     {
-      "projectID": 228969,
-      "fileID": 2248928,
-      "required": true
-    },
-    {
       "projectID": 225643,
       "fileID": 2283837,
       "required": true
     },
     {
-      "projectID": 232283,
-      "fileID": 2257661,
+      "projectID": 228969,
+      "fileID": 2248928,
       "required": true
     },
     {
       "projectID": 228832,
       "fileID": 2241379,
+      "required": true
+    },
+    {
+      "projectID": 232283,
+      "fileID": 2257661,
       "required": true
     },
     {
@@ -345,13 +355,13 @@
       "required": true
     },
     {
-      "projectID": 232192,
-      "fileID": 2250677,
+      "projectID": 225903,
+      "fileID": 2269692,
       "required": true
     },
     {
-      "projectID": 225903,
-      "fileID": 2269692,
+      "projectID": 232192,
+      "fileID": 2250677,
       "required": true
     },
     {
@@ -405,13 +415,13 @@
       "required": true
     },
     {
-      "projectID": 69118,
-      "fileID": 2280761,
+      "projectID": 224440,
+      "fileID": 2262112,
       "required": true
     },
     {
-      "projectID": 224440,
-      "fileID": 2262112,
+      "projectID": 69118,
+      "fileID": 2280761,
       "required": true
     },
     {
@@ -515,13 +525,13 @@
       "required": true
     },
     {
-      "projectID": 237232,
-      "fileID": 2266711,
+      "projectID": 244509,
+      "fileID": 2296740,
       "required": true
     },
     {
-      "projectID": 244509,
-      "fileID": 2296740,
+      "projectID": 237232,
+      "fileID": 2266711,
       "required": true
     },
     {
@@ -550,13 +560,13 @@
       "required": true
     },
     {
-      "projectID": 237899,
-      "fileID": 2707992,
+      "projectID": 313427,
+      "fileID": 2786664,
       "required": true
     },
     {
-      "projectID": 313427,
-      "fileID": 2786664,
+      "projectID": 237899,
+      "fileID": 2707992,
       "required": true
     },
     {
