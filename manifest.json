@@ -12,7 +12,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Thaumic Industries 2",
-  "version": "2.0.3",
+  "version": "2.0.3.1",
   "author": "Thenemex",
   "files": [
     {
@@ -351,13 +351,13 @@
       "required": true
     },
     {
-      "projectID": 232192,
-      "fileID": 2250677,
+      "projectID": 225903,
+      "fileID": 2269692,
       "required": true
     },
     {
-      "projectID": 225903,
-      "fileID": 2269692,
+      "projectID": 232192,
+      "fileID": 2250677,
       "required": true
     },
     {
@@ -411,13 +411,13 @@
       "required": true
     },
     {
-      "projectID": 69118,
-      "fileID": 2280761,
+      "projectID": 224440,
+      "fileID": 2262112,
       "required": true
     },
     {
-      "projectID": 224440,
-      "fileID": 2262112,
+      "projectID": 69118,
+      "fileID": 2280761,
       "required": true
     },
     {
@@ -453,6 +453,11 @@
     {
       "projectID": 237407,
       "fileID": 2282681,
+      "required": true
+    },
+    {
+      "projectID": 232791,
+      "fileID": 3335234,
       "required": true
     },
     {
